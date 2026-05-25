@@ -2,7 +2,7 @@
   atOptions = {
     'key' : '981e07dcb74077485d22c2a39b017e72',
     'format' : 'iframe',
-    'height' : 90,
+    'height' : solo,
     'width' : 728,
     'params' : {}
   };
